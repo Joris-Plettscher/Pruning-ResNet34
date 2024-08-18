@@ -25,6 +25,7 @@ This project demonstrates the pruning of a ResNet34 model on the CIFAR-10 datase
 ## Results
 
 The results indicate that retraining the pruned models, especially with a doubled number of epochs, helps in maintaining high accuracy.
+![Accuracies.png](https://github.com/Joris-Plettscher/Pruning-ResNet34/blob/main/Accuracies.png?raw=true)
 
 ## Usage
 
